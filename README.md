@@ -1,6 +1,6 @@
 # Blender-python
 ## Ubuntu
-### Install blender
+Blender and python have been installed successfully
 ```
 # check the python binded with blender
 import sys
